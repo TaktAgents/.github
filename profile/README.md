@@ -27,9 +27,9 @@ scheduling utility for AI agent session alignment.
 <!-- START_DASHBOARD -->
 ### 📊 Прогресс разработки (Takt Dashboard)
 
-`████████████░░░░░░░░` **32 / 55 (58%)**
+`██████████████░░░░░░` **39 / 55 (71%)**
 
-🟢 Done: **32** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **23**
+🟢 Done: **39** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **16**
 
 #### 🏗️ Прогресс по фазам
 
@@ -39,15 +39,15 @@ scheduling utility for AI agent session alignment.
 | ⚙️ core | 7 | 7 | `████████████` 100% |
 | 🛡️ network-guard | 3 | 3 | `████████████` 100% |
 | ⏱️ limits-guard | 3 | 4 | `█████████░░░` 75% |
-| 🧩 agent-catalog | 3 | 4 | `█████████░░░` 75% |
+| 🧩 agent-catalog | 4 | 4 | `████████████` 100% |
 | ⌨️ cli-integration | 3 | 3 | `████████████` 100% |
 | 🎨 ui | 2 | 9 | `███░░░░░░░░░` 22% |
 | 🔗 integration | 2 | 4 | `██████░░░░░░` 50% |
 | 🧪 testing | 1 | 2 | `██████░░░░░░` 50% |
 | ✨ polish | 0 | 3 | `░░░░░░░░░░░░` 0% |
 | 🔬 validation | 1 | 1 | `████████████` 100% |
-| 🌐 landing | 4 | 6 | `████████░░░░` 67% |
-| 📚 docs-site | 0 | 6 | `░░░░░░░░░░░░` 0% |
+| 🌐 landing | 6 | 6 | `████████████` 100% |
+| 📚 docs-site | 4 | 6 | `████████░░░░` 67% |
 
 #### 🚧 Сейчас в работе
 

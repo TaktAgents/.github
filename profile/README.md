@@ -24,6 +24,17 @@ starts those windows when your work actually begins.
 It is **not** a cloud service, an AI wrapper, or a chat UI — just a small, local
 scheduling utility for AI agent session alignment.
 
+<!-- START_DASHBOARD -->
+### 📊 Прогресс разработки (Takt Dashboard)
+
+`██████████░░░░░░░░░░` **28 / 55 (51%)**
+
+* 🟢 **Выполнено**: 28 задач
+* ⬜ **Открыто**: 27 задач
+
+_Последнее обновление: 2026-05-29_
+<!-- END_DASHBOARD -->
+
 ## Repositories
 
 | Repo | What |

@@ -27,9 +27,9 @@ scheduling utility for AI agent session alignment.
 <!-- START_DASHBOARD -->
 ### 📊 Прогресс разработки (Takt Dashboard)
 
-`██████████████████░░` **50 / 55 (91%)**
+`████████████████████` **55 / 55 (100%)**
 
-🟢 Done: **50** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **5**
+🟢 Done: **55** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **0**
 
 #### 🏗️ Прогресс по фазам
 
@@ -41,13 +41,13 @@ scheduling utility for AI agent session alignment.
 | ⏱️ limits-guard | 4 | 4 | `████████████` 100% |
 | 🧩 agent-catalog | 4 | 4 | `████████████` 100% |
 | ⌨️ cli-integration | 3 | 3 | `████████████` 100% |
-| 🎨 ui | 6 | 9 | `████████░░░░` 67% |
+| 🎨 ui | 9 | 9 | `████████████` 100% |
 | 🔗 integration | 4 | 4 | `████████████` 100% |
-| 🧪 testing | 1 | 2 | `██████░░░░░░` 50% |
+| 🧪 testing | 2 | 2 | `████████████` 100% |
 | ✨ polish | 3 | 3 | `████████████` 100% |
 | 🔬 validation | 1 | 1 | `████████████` 100% |
 | 🌐 landing | 6 | 6 | `████████████` 100% |
-| 📚 docs-site | 5 | 6 | `██████████░░` 83% |
+| 📚 docs-site | 6 | 6 | `████████████` 100% |
 
 #### 🚧 Сейчас в работе
 
@@ -63,7 +63,7 @@ _Последнее обновление: 2026-05-29_
 | [**takt**](https://github.com/TaktAgents/takt) | macOS menu bar app (Swift / SwiftUI) |
 | [**takt-cli**](https://github.com/TaktAgents/takt-cli) | cross-platform CLI `takt` (Bun / TypeScript) |
 | [**landing**](https://github.com/TaktAgents/landing) | marketing site (Astro + Tailwind) |
-| [**docs**](https://github.com/TaktAgents/docs) | public documentation (Vocs) |
+| [**docs**](https://github.com/TaktAgents/docs) | public documentation ([site](https://taktagents.github.io/docs/)) |
 
 ## Highlights
 

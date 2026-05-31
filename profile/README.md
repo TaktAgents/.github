@@ -27,9 +27,9 @@ scheduling utility for AI agent session alignment.
 <!-- START_DASHBOARD -->
 ### 📊 Прогресс разработки (Takt Dashboard)
 
-`████████████████████` **59 / 59 (100%)**
+`████████████████░░░░` **60 / 76 (79%)**
 
-🟢 Done: **59** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **0**
+🟢 Done: **60** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **16**
 
 #### 🏗️ Прогресс по фазам
 
@@ -40,8 +40,9 @@ scheduling utility for AI agent session alignment.
 | 🛡️ network-guard | 3 | 3 | `████████████` 100% |
 | ⏱️ limits-guard | 4 | 4 | `████████████` 100% |
 | 🧩 agent-catalog | 4 | 4 | `████████████` 100% |
-| ⌨️ cli-integration | 3 | 3 | `████████████` 100% |
-| 🎨 ui | 9 | 9 | `████████████` 100% |
+| ⌨️ cli-integration | 3 | 9 | `████░░░░░░░░` 33% |
+| 🎨 ui | 9 | 11 | `██████████░░` 82% |
+| 🖌️ design-system | 1 | 9 | `█░░░░░░░░░░░` 11% |
 | 🔗 integration | 4 | 4 | `████████████` 100% |
 | 🧪 testing | 2 | 2 | `████████████` 100% |
 | ✨ polish | 3 | 3 | `████████████` 100% |
@@ -54,7 +55,7 @@ scheduling utility for AI agent session alignment.
 
 _Нет активных задач в работе_
 
-_Последнее обновление: 2026-05-29_
+_Последнее обновление: 2026-05-31_
 <!-- END_DASHBOARD -->
 
 ## Repositories

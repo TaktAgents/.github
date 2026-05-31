@@ -27,9 +27,9 @@ scheduling utility for AI agent session alignment.
 <!-- START_DASHBOARD -->
 ### 📊 Прогресс разработки (Takt Dashboard)
 
-`█████████████████░░░` **66 / 76 (87%)**
+`██████████████████░░` **67 / 76 (88%)**
 
-🟢 Done: **66** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **10**
+🟢 Done: **67** · 🚧 In Progress: **0** · 🚫 Blocked: **0** · ⬜ Open: **9**
 
 #### 🏗️ Прогресс по фазам
 
@@ -41,7 +41,7 @@ scheduling utility for AI agent session alignment.
 | ⏱️ limits-guard | 4 | 4 | `████████████` 100% |
 | 🧩 agent-catalog | 4 | 4 | `████████████` 100% |
 | ⌨️ cli-integration | 3 | 9 | `████░░░░░░░░` 33% |
-| 🎨 ui | 9 | 11 | `██████████░░` 82% |
+| 🎨 ui | 10 | 11 | `███████████░` 91% |
 | 🖌️ design-system | 7 | 9 | `█████████░░░` 78% |
 | 🔗 integration | 4 | 4 | `████████████` 100% |
 | 🧪 testing | 2 | 2 | `████████████` 100% |
